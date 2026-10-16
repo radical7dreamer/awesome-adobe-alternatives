@@ -33,6 +33,8 @@ Alternatives to Photoshop and Canva photo tools.
 - [XnView MP](https://www.xnview.com/en/xnviewmp) - Desktop image browser and batch converter.
 - [Kapwing](https://www.kapwing.com) - Browser design and video tool for quick social graphics, free tier with a watermark.
 
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) - 브라우저에서 만화 번역과 스튜디오용 온라인 편집을 지원하는 기업급 만화 리더이며, 무료 이용에 제한이 있고 유료 요금제를 제공합니다.
+
 ## Raw Photos and Lighting
 
 Alternatives to Lightroom and Camera Raw.

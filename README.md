@@ -32,7 +32,7 @@ Alternatives to Photoshop and Canva photo tools.
 - [Squoosh](https://squoosh.app) - Browser image compressor that converts between formats and compares the result side by side.
 - [XnView MP](https://www.xnview.com/en/xnviewmp) - Desktop image browser and batch converter.
 - [Kapwing](https://www.kapwing.com) - Browser design and video tool for quick social graphics, free tier with a watermark.
-- [PhotoCraft](https://getartcraft.com/apps/photocraft) - Open source (MIT/Apache-2.0) Photoshop-style image editor in Rust from the ArtCraft suite, for desktop and browser, early alpha.
+- [PhotoCraft](https://getartcraft.com/apps/photocraft) - Open source (Apache-2.0) Photoshop-style image editor in Rust from the ArtCraft suite, for desktop and browser, early alpha.
 
 ## Raw Photos and Lighting
 

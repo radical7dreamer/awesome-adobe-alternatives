@@ -122,6 +122,7 @@ Alternatives to Acrobat.
 - [PDFgear](https://www.pdfgear.com) - Free PDF editor and converter for Windows and Mac.
 - [Sejda](https://www.sejda.com) - Browser PDF editor with a free daily limit.
 - [EmbedPDF](https://app.embedpdf.com) - Browser based PDF viewer and editor.
+- [PDF Fan – Inserir páginas em PDF](https://pdf.fan/pt-br/inserir-paginas-pdf/) - Free browser tool for inserting selected pages from another PDF at a chosen position, with a Brazilian Portuguese interface.
 - [SumatraPDF](https://www.sumatrapdfreader.org) - Fast open source PDF reader for Windows.
 - [Okular](https://okular.kde.org) - Open source document viewer with annotations.
 - [Zathura](https://pwmt.org/projects/zathura) - Keyboard driven document viewer.
